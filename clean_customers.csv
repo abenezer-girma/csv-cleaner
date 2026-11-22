@@ -1,0 +1,6 @@
+name,email,phone,country,signup_date,amount,email_valid
+Abenezer Girma,abenezer@gmail.com,0911223344,Ethiopia,2026-01-05,12.5,True
+Sara Tesfaye,sara@gmail.com,+251922111222,Ethiopia,2026-05-02,,True
+Daniel Bekele,daniel@gmail.com,+25477555778,Kenya,2026-03-10,75.0,True
+Helen Alemu,helen@gmail.com,0955777888,Ethiopia,2026-03-15,1200.0,True
+Yonas Kebede,yonas@gmail.com,,Uganda,2026-04-01,,True
